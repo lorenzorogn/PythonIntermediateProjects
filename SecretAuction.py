@@ -1,6 +1,6 @@
 from replit import clear
 
-from art import logo_secret_auction as logo
+from Art import logo_secret_auction as logo
 
 print(logo)
 print("Welcome to the secret auction program.")

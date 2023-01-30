@@ -1,8 +1,8 @@
-import art
+import Art
 
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-print(art.logo_caesar_cipher)
+print(Art.logo_caesar_cipher)
 
 # def encrypt(plain_text, shift_amount):
 #     cipher_text = ""

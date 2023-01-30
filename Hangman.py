@@ -1,13 +1,13 @@
 import random
 from replit import clear
-from hangman_words import word_list 
-import art
+from Hangman_words import word_list 
+import Art
 
 end_of_game = False
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
 lives = 6
-print(art.logo_hangman)
+print(Art.logo_hangman)
 
 #Create blanks
 display = []
@@ -43,7 +43,7 @@ while not end_of_game:
         end_of_game = True
         print("You win.")
 
-    print(art.stages[lives])
+    print(Art.stages[lives])
      
 
 
