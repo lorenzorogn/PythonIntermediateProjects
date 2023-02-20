@@ -1,6 +1,6 @@
 import random
 from replit import clear
-from Hangman_words import word_list 
+from game_data import word_list 
 import Art
 
 end_of_game = False
