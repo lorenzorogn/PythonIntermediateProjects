@@ -1,5 +1,5 @@
-from question_model import Question
-from game_data import question_data
+from QuestionModel.question_model import Question
+from QuestionData import question_data
 from quiz_brain import QuizBrain
 
 

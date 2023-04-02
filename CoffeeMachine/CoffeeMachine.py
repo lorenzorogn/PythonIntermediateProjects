@@ -1,4 +1,4 @@
-from game_data import MENU
+from CoffeeData import MENU
 
 
 resources = {
