@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b66826-9f59-4ba7-981c-df1a7c068322" name="Changes" comment="" />
+    <list default="true" id="27b66826-9f59-4ba7-981c-df1a7c068322" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/caesar_cipher.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
