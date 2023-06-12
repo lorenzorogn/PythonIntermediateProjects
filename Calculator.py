@@ -1,4 +1,4 @@
-from Art import logo_calculator
+from art import logo_calculator
 
 # Add
 def add(n1, n2):
