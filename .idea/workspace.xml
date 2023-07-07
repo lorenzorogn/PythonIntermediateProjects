@@ -5,23 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27b66826-9f59-4ba7-981c-df1a7c068322" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/API/ISSOverheadNotifierProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/KanyeQuotesApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/kanye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/images/false.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/images/true.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIAuthentication/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroductionFlask/DecoratorsArgsKwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroductionFlask/GuessTheNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroductionFlask/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroductionFlask/prova_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TriviaQuestionAPI/TypeHints.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriviaQuestionAPI/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TriviaQuestionAPI/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriviaQuestionAPI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TriviaQuestionAPI/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriviaQuestionAPI/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/TriviaQuestionAPI/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TriviaQuestionAPI/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/TriviaQuestionAPI/ui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,23 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/l.rognini/Documents/GitHub/PythonIntermediateProjects",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/l.rognini/Desktop/spedizioni&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\l.rognini\Documents\GitHub\PythonIntermediateProjects\API" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="KanyeQuotesApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.GuessTheNumber">
+    <configuration name="DecoratorsArgsKwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionFlask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API/KanyeQuotesApp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionFlask/DecoratorsArgsKwargs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GuessTheNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TriviaQuestionAPI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionFlask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TriviaQuestionAPI/data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionFlask/GuessTheNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prova_flask (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TriviaQuestionAPI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionFlask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TriviaQuestionAPI/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionFlask/prova_flask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="triangolo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prova_flask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionFlask" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangolo.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\l.rognini\Documents\GitHub\PythonIntermediateProjects\IntroductionFlask\prova_flask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TriviaQuestionAPI" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIAuthentication" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TriviaQuestionAPI/ui.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIAuthentication/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.KanyeQuotesApp" />
-        <item itemvalue="Python.ui" />
-        <item itemvalue="Python.data" />
-        <item itemvalue="Python.triangolo" />
+        <item itemvalue="Python.GuessTheNumber" />
+        <item itemvalue="Python.DecoratorsArgsKwargs" />
+        <item itemvalue="Python.prova_flask (1)" />
+        <item itemvalue="Python.prova_flask" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
